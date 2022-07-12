@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-42,
+				190
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "slaps",
+			"loop": false,
+			"name": "slaps"
+		},
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "slaps"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CGcutscene",
+	"position": [
+		40,
+		380
+	],
+	"healthicon": "cg",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		102
+	],
+	"camera_position": [
+		100,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				188
+			],
+			"anim": "uhoh",
+			"fps": 24,
+			"name": "twitch",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "twitch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CGGcutscene",
+	"position": [
+		40,
+		380
+	],
+	"healthicon": "cg",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		95,
+		215
+	],
+	"camera_position": [
+		110,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
