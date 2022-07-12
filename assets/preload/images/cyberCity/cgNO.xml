@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cgNO.png">
+<SubTexture name="SPLAT0000" x="1321" y="1663" width="200" height="259" frameX="-1186" frameY="-861" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0001" x="905" y="1663" width="416" height="318" frameX="-955" frameY="-730" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0002" x="0" y="1663" width="905" height="691" frameX="-467" frameY="-357" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0003" x="1275" y="0" width="1202" height="797" frameX="-118" frameY="-137" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0004" x="0" y="0" width="1275" height="866" frameX="0" frameY="0" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0005" x="0" y="866" width="1216" height="797" frameX="-118" frameY="-137" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0006" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-197" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0007" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-197" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0008" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-197" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0009" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-197" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0010" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-246" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0011" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-308" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0012" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-360" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0013" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-412" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0014" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-474" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0015" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-541" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0016" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-598" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0017" x="1216" y="866" width="1187" height="797" frameX="-137" frameY="-600" frameWidth="2550" frameHeight="2845" />
+<SubTexture name="SPLAT0018" x="1" y="1" width="1" height="1" frameX="-137" frameY="-600" frameWidth="2550" frameHeight="2845" />
+</TextureAtlas>

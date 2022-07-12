@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cameraBroke.png">
+<SubTexture name="camera broken0000" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0001" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0002" x="0" y="297" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0003" x="0" y="297" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0004" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0005" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0006" x="0" y="297" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0007" x="0" y="297" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0008" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0009" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0010" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0011" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0012" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+<SubTexture name="camera broken0013" x="0" y="0" width="579" height="297" frameX="0" frameY="0" frameWidth="579" frameHeight="297" />
+</TextureAtlas>

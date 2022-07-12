@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CG_bopsEvil.png">
+<SubTexture name="bopsEvil0000" x="0" y="1444" width="2080" height="707" frameX="-30" frameY="-11" frameWidth="2115" frameHeight="729" />
+<SubTexture name="bopsEvil0001" x="0" y="724" width="2004" height="720" frameX="-40" frameY="-3" frameWidth="2115" frameHeight="729" />
+<SubTexture name="bopsEvil0002" x="0" y="724" width="2004" height="720" frameX="-39" frameY="-3" frameWidth="2115" frameHeight="729" />
+<SubTexture name="bopsEvil0003" x="0" y="0" width="2004" height="724" frameX="-40" frameY="0" frameWidth="2115" frameHeight="729" />
+<SubTexture name="bopsEvil0004" x="0" y="2151" width="2004" height="719" frameX="-40" frameY="-3" frameWidth="2115" frameHeight="729" />
+<SubTexture name="bopsEvil0005" x="0" y="2151" width="2004" height="719" frameX="-39" frameY="-3" frameWidth="2115" frameHeight="729" />
+<SubTexture name="bopsEvil0006" x="0" y="2151" width="2004" height="719" frameX="-39" frameY="-3" frameWidth="2115" frameHeight="729" />
+</TextureAtlas>

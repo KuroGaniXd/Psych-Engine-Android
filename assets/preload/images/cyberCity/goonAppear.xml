@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goonAppear.png">
+<SubTexture name="portalOpen0000" x="2603" y="662" width="153" height="150" frameX="-305" frameY="-347" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0001" x="0" y="0" width="167" height="774" frameX="-298" frameY="-32" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0002" x="0" y="2098" width="687" height="579" frameX="-36" frameY="-131" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0003" x="724" y="0" width="709" height="690" frameX="-25" frameY="-75" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0004" x="1433" y="0" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0005" x="0" y="774" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0006" x="685" y="774" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0007" x="1370" y="774" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0008" x="0" y="1436" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0009" x="685" y="1436" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0010" x="1370" y="1436" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0011" x="2118" y="0" width="685" height="662" frameX="-37" frameY="-89" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0012" x="167" y="0" width="557" height="756" frameX="-101" frameY="-42" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0013" x="687" y="2098" width="550" height="447" frameX="-105" frameY="-239" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0014" x="2118" y="1603" width="514" height="454" frameX="-303" frameY="-560" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0015" x="2118" y="662" width="485" height="471" frameX="-312" frameY="-544" frameWidth="835" frameHeight="1015" />
+<SubTexture name="portalOpen0016" x="2118" y="1133" width="497" height="470" frameX="-301" frameY="-545" frameWidth="835" frameHeight="1015" />
+</TextureAtlas>
