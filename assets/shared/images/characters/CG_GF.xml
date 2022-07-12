@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CG_GF.png">
+<SubTexture name="idle0000" x="0" y="0" width="972" height="1000" frameX="-45" frameY="0" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0001" x="972" y="0" width="924" height="1000" frameX="-73" frameY="0" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0002" x="2779" y="2000" width="919" height="991" frameX="-78" frameY="-6" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0003" x="972" y="1000" width="919" height="997" frameX="-78" frameY="-2" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0004" x="1891" y="1000" width="941" height="997" frameX="-56" frameY="-2" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0005" x="2837" y="0" width="941" height="997" frameX="-56" frameY="-2" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0006" x="1896" y="0" width="941" height="1000" frameX="-56" frameY="0" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0007" x="0" y="1000" width="972" height="1000" frameX="-45" frameY="0" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0008" x="941" y="2000" width="919" height="996" frameX="-78" frameY="-3" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0009" x="1860" y="2000" width="919" height="996" frameX="-78" frameY="-3" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0010" x="2837" y="997" width="941" height="997" frameX="-56" frameY="-2" frameWidth="1066" frameHeight="1000" />
+<SubTexture name="idle0011" x="0" y="2000" width="941" height="997" frameX="-56" frameY="-2" frameWidth="1066" frameHeight="1000" />
+</TextureAtlas>
